@@ -1,0 +1,15 @@
+# Python virtual environment & cache
+venv/
+__pycache__/
+
+# Saved models
+*.pkl
+
+# Large data files
+*.txt
+
+# IDE settings
+.vscode/
+
+# Temporary diagnostic scripts
+diagnostic_test.py
